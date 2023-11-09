@@ -1,0 +1,27 @@
+.inputArea{
+    margin-left: 20%;
+    width: 60%;
+    border: 3px solid #DDDDDD;
+    padding: 10px;
+    height: 35px;
+    display: flex;
+}
+
+.nameCountry{
+    margin-top: 1%;
+    background-color: #F1F1F1;
+    display: flex;
+}
+
+.nameCountryHeading{
+    font-weight: 800;
+    font-size: larger;
+    min-width: 60%;
+}
+
+.dataToBeInserted{
+    font-size: 25px;
+    font-weight: 500;
+    min-width: 60%;
+    border-top: none;
+}
