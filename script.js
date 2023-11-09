@@ -9,6 +9,8 @@ let dataSet=[
     ["Sangeeth Sir","Banglore, India"]
 ]
 
+render(""); //to print all values initially 
+
 const text = document.getElementById('text');
 text.addEventListener('keyup', (e)=>{
     const val = e.target.value
